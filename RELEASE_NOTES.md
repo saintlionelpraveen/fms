@@ -52,7 +52,7 @@ Store important compliance and legal documents — such as **FCRA certificates**
 
 ---
 
-## 🛠 Built With
+## Built With
 
 FMS is proudly powered by the **[Frappe Framework](https://frappeframework.com/)** — an open-source, high-performance web framework. By building on Frappe, FMS inherits robust security, excellent scalability, and a highly customizable architecture, ensuring the platform can grow effortlessly alongside your nonprofit.
 
