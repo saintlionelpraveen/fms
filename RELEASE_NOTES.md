@@ -19,10 +19,10 @@ Whether you are a fundraising coordinator, finance manager, or program officer, 
 ## What's New in This Release <img src="image\new.png" height="10%" width="10%">
 
 ### Budget Planning
-Plan your program-wise budgets with ease. You can now set up structured budgets for each program, see how funds are allocated, and keep your entire team aligned — all from one place.
+Plan your program-wise budgets with ease. Organize your budgets using **categories** and **sub-categories** — so you can break down allocations into clear, manageable sections. See exactly how funds are distributed across each level, and keep your entire team aligned — all from one place.
 
-### Donor & Grant Management
-Gain full visibility and control over your entire lead pipeline by monitoring, tracking, and managing every stage to maximize conversions and streamline growth, while simultaneously centralizing donor information and grant details with complete lifecycle tracking — from application to closure — supported by automated reminders to ensure compliance and never miss a renewal.
+### Lead, Donor & Grant Management
+Start by adding your leads into the system. As you update a lead's status, FMS automatically converts qualified leads into donors — no manual re-entry needed. From there, manage all your donor information and grant details in one centralized place. Track the full lifecycle of each grant — from application to closure — with complete visibility and control at every stage.
 
 ### Expense & Utilization Tracking
 Link your expenses directly to specific grants and budgets. This ensures accurate fund utilization tracking, making audit preparation straightforward and stress-free.
@@ -42,7 +42,6 @@ Store important compliance and legal documents — such as **FCRA certificates**
 |---|---|
 | Data scattered across spreadsheets | One unified workspace for all fundraising data |
 | Losing track of donor relationships | Centralized donor profiles with history and notes |
-| Missing grant deadlines | Automated reminders for renewals and reports |
 | Manual, error-prone reporting | Real-time dashboards with accurate, live data |
 | Difficulty showing impact to donors | Transparent utilization tracking builds trust |
 | High-cost enterprise tools | Affordable, open-source, nonprofit-first solution |
@@ -64,9 +63,10 @@ FMS is built keeping your entire team in mind:
 
 1. **Log in** to your FMS workspace using the credentials shared by your administrator.
 2. **Set up your Programs** under the Budget Planning module.
-3. **Add your leads**, and based on their status the system will automatically sync donors and grants into the Donor & Grant Management section for seamless tracking.
-4. **Upload your key documents** to the Document Repository.
-5. **Explore your Dashboard and Reports** for a real-time overview of your fundraising health, where donor activity, grant utilization, and overall flow are seamlessly visible to help you track performance and ensure transparency.
+3. **Add your leads** — once a lead's status is updated, it will automatically convert into a donor, so there's no need to re-enter any data manually.
+4. **Track Utilization** — link your expenses to grants and budgets to see exactly where funds are being utilized.
+5. **Upload your key documents** to the Document Repository.
+6. **Explore your Dashboard and Reports** for a real-time overview of your fundraising health — see donor activity, grant utilization, and overall fund flow all in one place.
 
 > **Tip:** Your administrator can add a team member and assign roles so everyone has the right level of access.
 
