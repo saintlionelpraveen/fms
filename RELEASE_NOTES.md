@@ -30,10 +30,10 @@ Start by adding your leads into the system. As you update a lead's status, FMS a
 Link your expenses directly to specific grants and budgets. This ensures accurate fund utilization tracking, making audit preparation straightforward and stress-free.
 
 ### Real-Time Reports & Dashboards
-<p align="center">
-  <img src="image/d1.png" width="85%">
-</p>
 Get a live view of how your funds are being utilized through visual dashboards and instant reports. No more waiting for end-of-month spreadsheets — insights are available whenever you need them.
+<p align="center">
+  <img src="image\d1.png" width="85%">
+</p>
 
 ### Document Repository
 Store important compliance and legal documents — such as **FCRA certificates**, **80G registrations**, and renewal records — securely in one place. You can track expiry dates and upcoming renewals at a glance.
