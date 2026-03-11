@@ -7,7 +7,7 @@
 ---
 
 ## Welcome to FMS!
-<img src="image\FMS-Logo--3-.png" width="200" height="150">
+<img src="image\FMS-Logo--3-.png" width="50%" height="50%">
 
 
 We are thrilled to announce the **first official release** of the **Fundraising Management System (FMS)** — a purpose-built platform designed specifically for nonprofits to manage their fundraising activities with clarity, confidence, and ease.
