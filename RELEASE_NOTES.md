@@ -36,7 +36,7 @@ Store important compliance and legal documents — such as **FCRA certificates**
 
 ---
 
-## Why FMS?
+## Why FMS?<img src="image\why.png" height="5%" width="5%">
 
 | Challenge You Face | How FMS Helps |
 |---|---|
