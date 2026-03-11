@@ -7,7 +7,9 @@
 ---
 
 ## Welcome to FMS!
-<img src="image\FMS-Logo--3-.png" width="50%" height="50%">
+<p align="center">
+  <img src="image/FMS-Logo--3-.png" width="40%">
+</p>
 
 
 We are thrilled to announce the **first official release** of the **Fundraising Management System (FMS)** — a purpose-built platform designed specifically for nonprofits to manage their fundraising activities with clarity, confidence, and ease.
@@ -16,7 +18,7 @@ Whether you are a fundraising coordinator, finance manager, or program officer, 
 
 ---
 
-## What's New in This Release <img src="image\new.png" height="10%" width="10%">
+## What's New in This Release <img src="image/new.png" width="30" style="vertical-align: middle;">
 
 ### Budget Planning
 Plan your program-wise budgets with ease. Organize your budgets using **categories** and **sub-categories** — so you can break down allocations into clear, manageable sections. See exactly how funds are distributed across each level, and keep your entire team aligned — all from one place.
@@ -28,7 +30,9 @@ Start by adding your leads into the system. As you update a lead's status, FMS a
 Link your expenses directly to specific grants and budgets. This ensures accurate fund utilization tracking, making audit preparation straightforward and stress-free.
 
 ### Real-Time Reports & Dashboards
-<img src="image\d1.png" height="100%" width="100%">
+<p align="center">
+  <img src="image/d1.png" width="85%">
+</p>
 Get a live view of how your funds are being utilized through visual dashboards and instant reports. No more waiting for end-of-month spreadsheets — insights are available whenever you need them.
 
 ### Document Repository
@@ -36,7 +40,7 @@ Store important compliance and legal documents — such as **FCRA certificates**
 
 ---
 
-## Why FMS?  <img src="image\why.png" height="5%" width="5%">
+## Why FMS? <img src="image/why.png" width="30" style="vertical-align: middle;">
 
 | Challenge You Face | How FMS Helps |
 |---|---|
