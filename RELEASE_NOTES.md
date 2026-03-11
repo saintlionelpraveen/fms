@@ -64,11 +64,11 @@ FMS is built keeping your entire team in mind:
 
 1. **Log in** to your FMS workspace using the credentials shared by your administrator.
 2. **Set up your Programs** under the Budget Planning module.
-3. **Add your Donors and Grants** to the Donor & Grant Management section.
+3. **Add your leads**, and based on their status the system will automatically sync donors and grants into the Donor & Grant Management section for seamless tracking.
 4. **Upload your key documents** to the Document Repository.
-5. **Explore your Dashboard** for a real-time overview of your fundraising health.
+5. **Explore your Dashboard and Reports** for a real-time overview of your fundraising health, where donor activity, grant utilization, and overall flow are seamlessly visible to help you track performance and ensure transparency.
 
-> **Tip:** Your administrator can invite team members and assign roles so everyone has the right level of access.
+> **Tip:** Your administrator can add a team member and assign roles so everyone has the right level of access.
 
 ---
 
