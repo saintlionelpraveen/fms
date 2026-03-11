@@ -16,7 +16,7 @@ Whether you are a fundraising coordinator, finance manager, or program officer, 
 
 ---
 
-## What's New in This Release
+## What's New in This Release <img src="image\new.png" height="10%" width="10%">
 
 ### Budget Planning
 Plan your program-wise budgets with ease. You can now set up structured budgets for each program, see how funds are allocated, and keep your entire team aligned — all from one place.
