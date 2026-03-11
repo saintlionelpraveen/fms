@@ -40,7 +40,7 @@ Store important compliance and legal documents — such as **FCRA certificates**
 
 ---
 
-## Why FMS? <img src="image/why.png" width="50%" height="50%" style="vertical-align: middle;">
+## Why FMS? <img src="image/why.png" width="30" style="vertical-align: middle;">
 
 | Challenge You Face | How FMS Helps |
 |---|---|
@@ -52,7 +52,7 @@ Store important compliance and legal documents — such as **FCRA certificates**
 
 ---
 
-## 🛠 Built With
+## Built With
 
 FMS is proudly powered by the **[Frappe Framework](https://frappeframework.com/)** — an open-source, high-performance web framework. By building on Frappe, FMS inherits robust security, excellent scalability, and a highly customizable architecture, ensuring the platform can grow effortlessly alongside your nonprofit.
 
