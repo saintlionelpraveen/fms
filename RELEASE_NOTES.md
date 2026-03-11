@@ -22,12 +22,13 @@ Whether you are a fundraising coordinator, finance manager, or program officer, 
 Plan your program-wise budgets with ease. You can now set up structured budgets for each program, see how funds are allocated, and keep your entire team aligned — all from one place.
 
 ### Donor & Grant Management
-Keep all your donor information and grant details in one centralized location. Track the full lifecycle of each grant — from application to closure — and never miss a renewal or compliance deadline with built-in reminders.
+Gain full visibility and control over your entire lead pipeline by monitoring, tracking, and managing every stage to maximize conversions and streamline growth, while simultaneously centralizing donor information and grant details with complete lifecycle tracking — from application to closure — supported by automated reminders to ensure compliance and never miss a renewal.
 
 ### Expense & Utilization Tracking
 Link your expenses directly to specific grants and budgets. This ensures accurate fund utilization tracking, making audit preparation straightforward and stress-free.
 
 ### Real-Time Reports & Dashboards
+<img src="image\d1.png" height="100%" width="100%">
 Get a live view of how your funds are being utilized through visual dashboards and instant reports. No more waiting for end-of-month spreadsheets — insights are available whenever you need them.
 
 ### Document Repository
