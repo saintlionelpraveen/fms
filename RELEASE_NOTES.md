@@ -1,8 +1,7 @@
-# Release Notes — Fundraising Management System (FMS)
+# v1.0.0
 
-## Version: v1.0.0
+## Features
 
-### Features
 
 * **Budget Planning:** Plan program-wise budgets using categories and sub-categories to break down allocations into manageable sections and keep your team aligned.
 * **Lead, Donor & Grant Management:** Automatically convert qualified leads into donors. Manage donor information and track the full lifecycle of each grant from application to closure.
