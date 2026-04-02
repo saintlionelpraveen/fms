@@ -1,93 +1,11 @@
 # Release Notes — Fundraising Management System (FMS)
 
-**Version:** v1.0.0
-**Release Date:** March 11, 2026
-**Type:** Initial Release
+## Version: v1.0.0
 
----
+### Features
 
-## Welcome to FMS!
-<p align="center">
-  <img src="image/FMS-Logo--3-.png" width="40%">
-</p>
-
-
-We are thrilled to announce the **first official release** of the **Fundraising Management System (FMS)** — a purpose-built platform designed specifically for nonprofits to manage their fundraising activities with clarity, confidence, and ease.
-
-Whether you are a fundraising coordinator, finance manager, or program officer, FMS brings all your fundraising work into one organized, easy-to-use workspace.
-
----
-
-## What's New in This Release <img src="image/new.png" width="30" style="vertical-align: middle;">
-
-### Budget Planning
-Plan your program-wise budgets with ease. Organize your budgets using **categories** and **sub-categories** — so you can break down allocations into clear, manageable sections. See exactly how funds are distributed across each level, and keep your entire team aligned — all from one place.
-
-### Lead, Donor & Grant Management
-Start by adding your leads into the system. As you update a lead's status, FMS automatically converts qualified leads into donors — no manual re-entry needed. From there, manage all your donor information and grant details in one centralized place. Track the full lifecycle of each grant — from application to closure — with complete visibility and control at every stage.
-
-### Expense & Utilization Tracking
-Link your expenses directly to specific grants and budgets. This ensures accurate fund utilization tracking, making audit preparation straightforward and stress-free.
-
-### Real-Time Reports & Dashboards
-Get a live view of how your funds are being utilized through visual dashboards and instant reports. No more waiting for end-of-month spreadsheets — insights are available whenever you need them.
-<p align="center">
-  <img src="image\d1.png" width="85%">
-</p>
-
-### Document Repository
-Store important compliance and legal documents — such as **FCRA certificates**, **80G registrations**, and renewal records — securely in one place. You can track expiry dates at a glance and receive **automated email notifications** well before upcoming renewals, ensuring you never miss a deadline.
-
----
-
-## Why FMS? <img src="image/why.png" width="30" style="vertical-align: middle;">
-
-| Challenge You Face | How FMS Helps |
-|---|---|
-| Data scattered across spreadsheets | One unified workspace for all fundraising data |
-| Losing track of donor relationships | Centralized donor profiles with history and notes |
-| Manual, error-prone reporting | Real-time dashboards with accurate, live data |
-| Difficulty showing impact to donors | Transparent utilization tracking builds trust |
-| High-cost enterprise tools | Affordable, open-source, nonprofit-first solution |
-
----
-
-## Built With
-
-FMS is proudly powered by the **[Frappe Framework](https://frappeframework.com/)** — an open-source, high-performance web framework. By building on Frappe, FMS inherits robust security, excellent scalability, and a highly customizable architecture, ensuring the platform can grow effortlessly alongside your nonprofit.
-
----
-
-## Who Is This For?
-
-FMS is built keeping your entire team in mind:
-
-- **Fundraising Teams** — Track donors, grants, and pipelines effortlessly.
-- **Finance Teams** — Monitor budget allocation and expense utilization with precision.
-- **Program Teams** — Stay informed about program-wise fund availability and usage.
-- **Leadership & Management** — Make data-driven decisions with real-time insights.
-
----
-
-## Getting Started
-
-1. **Log in** to your FMS workspace using the credentials shared by your administrator.
-2. **Set up your Programs** under the Budget Planning module.
-3. **Add your leads** — once a lead's status is updated, it will automatically convert into a donor, so there's no need to re-enter any data manually.
-4. **Track Utilization** — link your expenses to grants and budgets to see exactly where funds are being utilized.
-5. **Upload your key documents** to the Document Repository.
-6. **Explore your Dashboard and Reports** for a real-time overview of your fundraising health — see donor activity, grant utilization, and overall fund flow all in one place.
-
-> **Tip:** Your administrator can add a team member and assign roles so everyone has the right level of access.
-
----
-
-## Support & Feedback
-
-We value your feedback as you begin using FMS. If you have questions, suggestions, or need assistance, please reach out to your system administrator or our support team.
-
-Your input helps us make FMS better with every release. Thank you for being part of this journey! 
-
----
-
-*Fundraising Management System — Open-source. Nonprofit-focused. Impact-driven.*
+* **Budget Planning:** Plan program-wise budgets using categories and sub-categories to break down allocations into manageable sections and keep your team aligned.
+* **Lead, Donor & Grant Management:** Automatically convert qualified leads into donors. Manage donor information and track the full lifecycle of each grant from application to closure.
+* **Expense & Utilization Tracking:** Link expenses directly to specific grants and budgets, ensuring accurate fund utilization tracking for stress-free audits.
+* **Real-Time Reports & Dashboards:** Instantly view fund utilization through live visual dashboards and reports.
+* **Document Repository:** Securely store compliance and legal documents (e.g., FCRA certificates, 80G registrations), track expiry dates, and receive automated renewal notifications.
